@@ -1,0 +1,27 @@
+{
+  "name": "riot-browserify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dp-lewis/riot-testing-browserify.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dp-lewis/riot-testing-browserify/issues"
+  },
+  "homepage": "https://github.com/dp-lewis/riot-testing-browserify#readme",
+  "devDependencies": {
+    "karma": "^0.13.10",
+    "karma-browserify": "^4.3.0",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6",
+    "riot": "^2.2.4",
+    "riotify": "^0.1.2"
+  }
+}
