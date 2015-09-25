@@ -13,7 +13,7 @@ describe('Hello World', function () {
   it('should mount the tag', function () {
     riot.mount('hello-world');
     expect(document.querySelector('hello-world h1').textContent)
-      .toBe('Hello Worlds');
+      .toBe('Hello World');
   });
 
 });
